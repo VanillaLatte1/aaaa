@@ -21,11 +21,6 @@ public class HelloClass {
 
         System.out.println("1. 마을 구경/ 2. 모험 / 3. 집으로");
         int x = sc.nextInt();
-//        if(x == 1){
-//
-//        }
-
-
 
         //enemy 만난다
         System.out.println(M_name + "이(가) " + E_name + "를 만났다!");
